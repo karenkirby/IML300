@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>page 2</title>
+    <link href="page-6.css" type="text/css" rel="stylesheet">
+
+<script>
+function startTime() {
+  var today = new Date();
+  var h = today.getHours();
+  var m = today.getMinutes();
+  var s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =
+  h + ":" + m + ":" + s;
+  var t = setTimeout(startTime, 500);
+}
+function checkTime(i) {
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+  return i;
+}
+</script>
+  </head>
+  <body onload="startTime()">
+      <p class="txt"> Now it is</p>
+      <div id="txt"></div>
+      <div class="container">
+          <p class="txt"> Stay Home. Stay Sane.</p> 
+  
+        
+        
+    <audio controls autoplay>
+      <source src="asset/clock.wav" type="audio/mp3" autoplay=True>  
+        
+    </audio>
+          back to the <a href="page-1.html" >Home Page</a><br>
+</div>
+  </body>
+</html>
