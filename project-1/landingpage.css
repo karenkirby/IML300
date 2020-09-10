@@ -1,0 +1,71 @@
+h1{
+    color: azure;
+    font-family: fantasy
+}
+
+p{
+    color: azure;
+    font-family: fantasy;        
+}
+
+.text{
+    display: block;
+    position: absolute;
+    padding-bottom: 300px;
+}
+
+.a, .b, .c, .d, .e, .f{
+    width:160px;
+    height:145px;
+}
+
+
+body{
+    background-image: url('https://2img.net/h/78.media.tumblr.com/8862be46ba5333876759ee7aecc12829/tumblr_nxexvpMGlV1rmu963o1_500.gif');
+    background-size: cover;
+    
+        
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+.happiness, .sadness, .fear, .anger, .surprise{
+    float:left;
+    text-align: center;
+}
+
+.happiness{
+    display: block;
+    position: absolute;
+    padding-left: 650px;
+
+}
+
+.sadness{
+    display: block;
+    position: absolute;
+    padding-left: 470px;
+    padding-top: 130px;
+}
+
+.fear{
+    display: block;
+    position: absolute;
+    padding-left: 550px;
+    padding-top: 300px;
+}
+
+.surprise{
+    display: block;
+    position: absolute;
+    padding-left: 820px;
+    padding-top: 130px;
+}
+
+.anger{
+    display: block;
+    position: absolute;
+    padding-left: 750px;
+    padding-top: 300px;
+}
