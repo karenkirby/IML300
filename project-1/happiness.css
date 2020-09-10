@@ -1,5 +1,6 @@
 html {
     background: #FEFAD9;
+    font-family: fantasy;
 }
 
 .container {
@@ -36,7 +37,7 @@ height: 1200px;
 }
 
 .text {
-  color: white;
+
   font-size: 20px;
   position: absolute;
   top: 50%;
@@ -44,4 +45,10 @@ height: 1200px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
     color: darkblue;
+}
+
+a{
+    color: blueviolet;
+    background-color: aqua;
+    
 }

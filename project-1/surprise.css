@@ -1,17 +1,36 @@
 .bgv {
   object-fit: cover;
-  width: 100vw;
+  width: 120vw;
   height: 100vh;
   position: fixed;
   top: 0;
   left: 0;
 }
 
-.viewport-header {
-  position: relative;
-  height: 100vh;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+video{
+    width:1440px;
+opacity: .6;
+}
+
+.text{
+    position: absolute;
+    display: block;
+    text-align: center;
+    width: 1400px;
+    top: 100px;
+
+    
+    color: black;
+    font-family: fantasy;
+    
+}
+
+.text h1 {
+    color: firebrick;
+
+}
+
+a{
+    background-color: cornflowerblue;
+    color: floralwhite;
 }
