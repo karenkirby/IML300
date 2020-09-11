@@ -1,5 +1,5 @@
 body{
-    background-image: url('https://thumbs.dreamstime.com/b/blue-smoke-fire-flame-white-background-mystic-colorful-smoke-blurry-bright-abstraction-colored-lines-magic-fire-blue-135283813.jpg');
+    background-image: url('http://i2.cdn.turner.com/cnn/2014/images/08/15/stumblers_2.gif');
     background-size: cover;
     font-family: fantasy;
         
@@ -31,6 +31,9 @@ div.slide-up {
   height:560px;
 padding: 20px;
   overflow:hidden;
+    color: black;
+    background: white;
+opacity: .8;
 }
 div.slide-up p {
   animation: 10s slide-up;
@@ -62,4 +65,6 @@ div.slide-up p {
    z-index: -9999;
 }
 
+a {
+        background-color: azure;
 }
