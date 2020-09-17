@@ -4,13 +4,13 @@ body{
     background-color: black;
         
     height: 100vh;
-    padding-left:10px;
-    margin:0;
+
 }
 
 body{
     font-family: fantasy;
     color: aliceblue;
+
     
 }
 
@@ -21,4 +21,8 @@ a{
 
 .big{
     font-style: oblique;
+}
+
+.main{
+    width: 850px;
 }
