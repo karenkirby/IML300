@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "p5 bath bomb New Tab",
+	"version": "1.0",
+	"description": "Launch a new tab with bath bomb effects created by p5.js",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}
