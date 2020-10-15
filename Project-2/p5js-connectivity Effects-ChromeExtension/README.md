@@ -1,7 +1,7 @@
 # "On Connectivity" Visual Chrome Extension
-![connect](/gif/connectivity.gif)
-![connect-2](/gif/connectivity-2.gif)
-![connect-3](/gif/connectivity-3.gif)
+![connect](/png/connectivity.png)
+![connect-2](/png/connectivity-2.png)
+![connect-3](/png/connectivity-3.png)
 
 
 
