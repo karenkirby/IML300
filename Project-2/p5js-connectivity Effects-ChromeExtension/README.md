@@ -3,9 +3,6 @@
 ![](png/connectivity-2.png)
 ![](png/connectivity-3.png)
 
-<img src="img/my-image.png" />
-
-
 
 A Google Chrome extension that reflect on the connectivity between individuals pre-pandemic and during the pandemic. I hope this extension could uplift you and give you a sense of peace and assurance :lotus_position: and positive energy :blossom: amid the social distancing fatigue.
 Inspired by yasai and made with p5.js
