@@ -1,4 +1,11 @@
 # "On Connectivity" Visual Chrome Extension
+![connect](/gif/connectivity.gif)
+![connect-2](/gif/connectivity-2.gif)
+![connect-3](/gif/connectivity-3.gif)
+
+
+
+
 
 A Google Chrome extension that reflect on the connectivity between individuals pre-pandemic and during the pandemic. I hope this extension could uplift you and give you a sense of peace and assurance amid the social distancing fatigue. Inspired by yasai and made with p5.js
 
