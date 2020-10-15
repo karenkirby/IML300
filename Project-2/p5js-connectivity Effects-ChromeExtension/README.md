@@ -1,7 +1,9 @@
 # "On Connectivity" Visual Chrome Extension
-![connect](/png/connectivity.png)
-![connect-2](/png/connectivity-2.png)
-![connect-3](/png/connectivity-3.png)
+![](png/connectivity.png)
+![](png/connectivity-2.png)
+![](png/connectivity-3.png)
+
+<img src="img/my-image.png" />
 
 
 
